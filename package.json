@@ -1,0 +1,26 @@
+{
+  "name": "meandowlark",
+  "version": "1.0.0",
+  "description": "This is a Demo WebSite",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaxfan/meandowlark.git"
+  },
+  "keywords": [
+    "meandowlark"
+  ],
+  "author": "ajaxfan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaxfan/meandowlark/issues"
+  },
+  "homepage": "https://github.com/ajaxfan/meandowlark#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
